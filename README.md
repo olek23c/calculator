@@ -5,6 +5,8 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/olek0901/MyShuttle/_apis/build/status/olek23c.calculator?branchName=master)](https://dev.azure.com/olek0901/MyShuttle/_build/latest?definitionId=7&branchName=master)
 
+https://dev.azure.com/olek0901/MyShuttle/_apis/build/status/olek23c.calculator?branchName=master
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
